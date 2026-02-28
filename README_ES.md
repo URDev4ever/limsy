@@ -62,7 +62,7 @@ Eres responsable del uso que le des.
 Clona el repositorio:
 
 ```bash
-git clone https://github.com/yourusername/limsy.git
+git clone https://github.com/urdev4ever/limsy.git
 cd limsy
 ```
 
