@@ -62,7 +62,7 @@ You are responsible for how you use it.
 Clone the repository:
 
 ```bash
-git clone [https://github.com/yourusername/limsy.git](https://github.com/yourusername/limsy.git)
+git clone https://github.com/urdev4ever/limsy.git
 cd limsy
 ```
 
@@ -79,19 +79,19 @@ pip install aiohttp colorama
 Basic usage:
 
 ```bash
-python limsy.py -u [https://example.com](https://example.com)
+python limsy.py -u https://example.com
 ```
 
 With custom concurrency:
 
 ```bash
-python limsy.py -u [https://example.com](https://example.com) -c 30
+python limsy.py -u https://example.com -c 30
 ```
 
 Quiet mode (no interactive prompts):
 
 ```bash
-python limsy.py -u [https://example.com](https://example.com) -q
+python limsy.py -u https://example.com -q
 ```
 ---
 
