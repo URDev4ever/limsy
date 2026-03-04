@@ -137,7 +137,17 @@ En cada etapa:
 
 ---
 
-## ⭐ Nota final
+## ⭐ Contribuir
+
+Las pull requests son bienvenidas si:
+
+* Mejoran la lógica de detección de límites, la precisión en la clasificación de respuestas o la claridad del análisis por etapas
+* Mejoran el rendimiento asíncrono, la estabilidad de la concurrencia o el manejo limpio de interrupciones sin aumentar la agresividad
+* Preservan la filosofía controlada y no intrusiva (sin ráfagas de tráfico, sin patrones de estrés, sin comportamiento tipo DoS)
+
+---
+
+## 📝 Nota final
 
 Limsy es intencionalmente simple, legible y ética.
 Si necesitas pruebas de carga agresivas, utiliza herramientas dedicadas.
