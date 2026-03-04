@@ -138,7 +138,17 @@ At each stage, it:
 
 ---
 
-## ⭐ Final Note
+## ⭐ Contributing
+
+Pull requests are welcome if they:
+
+* Improve rate-detection logic, response classification accuracy, or stage analysis clarity
+* Enhance async performance, concurrency stability, or graceful shutdown behavior without increasing aggressiveness
+* Preserve the controlled, non-intrusive philosophy (no traffic bursts, no stress-testing patterns, no DoS-style behavior)
+
+---
+
+## 📝 Final Note
 
 Limsy is intentionally simple, readable, and ethical.
 If you need aggressive load testing, use dedicated tools.
