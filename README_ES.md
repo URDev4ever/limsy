@@ -1,7 +1,7 @@
 <h1 align="center">Limsy</h1>
 <p align="center">
-  🇺🇸 <a href="README.md">English</a> |
-  🇪🇸 <a href="README_ES.md"><b>Español</b></a>
+  🇺🇸 <a href="README.md"><b>English</b></a> |
+  🇪🇸 <b>Español</b>
 </p>
 <p align="center">
   <img width="460" height="94" alt="image" src="https://github.com/user-attachments/assets/46959962-be02-426c-bd5f-9ae972fcf29f" />
